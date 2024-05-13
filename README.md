@@ -11,3 +11,6 @@ Maybe they're not the best of the best, but that's what was thought of and that'
 - Forecast: [https://saxes-forecast.netlify.app/](https://saxes-forecast.netlify.app/)
 - Todo List [https://saxes-list.netlify.app/](https://saxes-list.netlify.app/)
 - Saintfull [https://saxesv.github.io/saintfull/](https://saxesv.github.io/saintfull/)
+
+## What am I learning or want to learn at the moment
+- Unitary tests
